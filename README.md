@@ -16,7 +16,7 @@ To write a PYTHON program for socket for HTTP for web page upload and download
 6.Stop the program
 <BR>
 ## Program :
-DEVELOPED BY:Swaminathan.v
+DEVELOPED BY:Swaminathan.V
 
 REGISTER NUMBER:212223110057
 ```
